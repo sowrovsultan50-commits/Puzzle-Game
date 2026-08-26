@@ -1,0 +1,6 @@
+{
+  "name": "Picture Puzzle Battle",
+  "description": "Real-time online multiplayer picture puzzle battle game by Sowrov Sultan featuring 2-4 player matches, private rooms, practice mode, and rankings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
